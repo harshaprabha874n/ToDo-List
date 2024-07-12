@@ -8,4 +8,4 @@
 * Adding the necessary widgets to the application and apply the event triggers.
 * Calling the functions in the main function of the application.
 
-<img src="C:\Users\Admin\Desktop\todo py\output\img.png">
+<img src="output\img.png">
